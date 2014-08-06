@@ -1,0 +1,62 @@
+
+@import url(http://fonts.googleapis.com/css?family=Abel);
+
+html {
+	background: url(images/bg.jpg) no-repeat fixed center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+
+body {
+	background: transparent;
+	color: #ffffff;
+	font-family: "Abel", Helvetica, sans-serif;	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: inherit;
+}
+
+#logo {
+	text-align: center;
+}
+
+#logo img {
+	max-width:200px !important;
+	height:auto;
+}
+
+#logo-heading {
+	font-size: 50px;
+}
+
+#slogan {
+	font-size: 30px;
+}
+
+#signup-form {
+	text-align: center;
+	margin: 100px;
+}
+
+#social-links {
+	margin-top: 150px;
+	list-style: none;
+	text-align: center;
+}
+
+#social-links li {
+	display: inline-block;
+	margin-right: 50px;
+}
+
+#social-links li a {
+	opacity:0.7;
+}
+
+#social-links li a:hover {
+	opacity:1;
+}
