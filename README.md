@@ -1,1 +1,3 @@
-Hacker guild website
+## Hacker guild landing page
+
+Subscribe now !
